@@ -4,3 +4,4 @@ Apples
 bananas
 chocolates
 bread
+Cereal
