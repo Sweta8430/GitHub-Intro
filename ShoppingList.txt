@@ -5,3 +5,6 @@ bananas
 chocolates
 bread
 Cereal
+cucumbers
+oranges
+Milk
